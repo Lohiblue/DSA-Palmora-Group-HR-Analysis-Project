@@ -1,6 +1,6 @@
 # DSA-Palmora-Group-HR-Analysis-Project
 
-This repository contains information on the data Analysisnproject developed using Power BI. the project focuses on specific domains and provides visualization, insights and analytics based on the dataset
+This repository contains information on the data Analysis  project developed using Power BI. the project focuses on specific domains and provides visualization, insights and analytics based on the dataset
 
 
 ## PROJECT TOPIC: Palmora Group HR Analysis  
