@@ -38,4 +38,31 @@ The data set was analyzed using some Power BI Measure Slicers and Visualization 
   - `Employees Below Minimum Salary = COUNTX(FILTER('Employee', 'Employee'[Salary] < 90000), 'Employee'[Salary])`
   - Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)`
   - - `Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'`
+   
+       - ![powerbi 1](https://github.com/user-attachments/assets/4cd8a69a-09c6-49fa-ad4e-ad995556c988)
+      
+       -  ![powerbi 2](https://github.com/user-attachments/assets/e8e0c28e-aaab-4928-b7aa-cc5ec33e1443)
+     
+       -  ![powerbi 3](https://github.com/user-attachments/assets/3724fd86-57de-4f3c-81d5-8ba8d6c53608)
+     
+
+   ### Result findings
+Conclusively, after the analysis some of the following findings were made
+   - The GENDER distribution Analysis was uneven in the various department. There were some department that had more male than female vice visa.
+   - The overall total Gender distribution had the male having 49%, Female 47% and Nonbinary 4%
+   - The salary structure favoured the male  more than other gender thereby indicating Salary Gap in the company
+
+
+### Recomendation
+Based on the findings, I there by recommend the following
+   - There should be an adequate quota system ie employing staffs into the establishment
+   - Salary structure should not be based on gender but on rank within the establishment to avoid the issue of gender inequality and discrimination 
+
+
+
+
+
+
+
+
 
